@@ -1,0 +1,170 @@
+[
+  {
+    "PolyFID": 1,
+    "ID_NO": "(1",
+    "Site": "2)",
+    "Date": "De Vrijheid",
+    "XCOORD": "SGC",
+    "YCOORD": 123654.437763
+  },
+  {
+    "PolyFID": 2,
+    "ID_NO": "(3",
+    "Site": 4,
+    "Date": "5)",
+    "XCOORD": "Flevo",
+    "YCOORD": "SGC"
+  },
+  {
+    "PolyFID": 3,
+    "ID_NO": "(6)",
+    "Site": "Kolhorn",
+    "Date": "SGC",
+    "XCOORD": 122240.697287,
+    "YCOORD": 534272.15889
+  },
+  {
+    "PolyFID": 4,
+    "ID_NO": "(7)",
+    "Site": "Poolland",
+    "Date": "SGC",
+    "XCOORD": 118252.04525,
+    "YCOORD": 534760.163713
+  },
+  {
+    "PolyFID": 5,
+    "ID_NO": "(8)",
+    "Site": "Zeewijk",
+    "Date": "SGC",
+    "XCOORD": 124676.453147,
+    "YCOORD": 530874.23941
+  },
+  {
+    "PolyFID": 6,
+    "ID_NO": "(9)",
+    "Site": "De Veken",
+    "Date": "SGC/BB",
+    "XCOORD": 127568.320947,
+    "YCOORD": 525119.356398
+  },
+  {
+    "PolyFID": 7,
+    "ID_NO": "(10)",
+    "Site": "Meester Juffer",
+    "Date": "SGC",
+    "XCOORD": 128633.919551,
+    "YCOORD": 524311.159566
+  },
+  {
+    "PolyFID": 8,
+    "ID_NO": "(11)",
+    "Site": "Aartswould",
+    "Date": "SGC",
+    "XCOORD": 126712.686375,
+    "YCOORD": 528830.959628
+  },
+  {
+    "PolyFID": 9,
+    "ID_NO": "(12)",
+    "Site": "Gouwe",
+    "Date": "SGC",
+    "XCOORD": 125780.527811,
+    "YCOORD": 528640.742304
+  },
+  {
+    "PolyFID": 12,
+    "ID_NO": "(15)",
+    "Site": "Maantjesland",
+    "Date": "SGC",
+    "XCOORD": 126543.288575,
+    "YCOORD": 529252.000716
+  },
+  {
+    "PolyFID": 13,
+    "ID_NO": "(16)",
+    "Site": "Mienakker",
+    "Date": "SGC",
+    "XCOORD": 124602.444511,
+    "YCOORD": 527567.151872
+  },
+  {
+    "PolyFID": 14,
+    "ID_NO": "(17)",
+    "Site": "Molenkolk 1",
+    "Date": "SGC",
+    "XCOORD": 127282.59891,
+    "YCOORD": 528807.48878
+  },
+  {
+    "PolyFID": 15,
+    "ID_NO": "(18)",
+    "Site": "Molenkolk 2",
+    "Date": "SGC",
+    "XCOORD": 127698.63389,
+    "YCOORD": 528875.249555
+  },
+  {
+    "PolyFID": 16,
+    "ID_NO": "(19)",
+    "Site": "Portelwoid",
+    "Date": "SGC",
+    "XCOORD": 125893.934789,
+    "YCOORD": 528007.115672
+  },
+  {
+    "PolyFID": 17,
+    "ID_NO": "(20)",
+    "Site": "Rhomneyhut",
+    "Date": "SGC",
+    "XCOORD": 125612.6,
+    "YCOORD": 529625.95
+  },
+  {
+    "PolyFID": 19,
+    "ID_NO": "(22)",
+    "Site": "Zandwerven 1",
+    "Date": "SGC/Vl",
+    "XCOORD": 125512.64078,
+    "YCOORD": 521225.077409
+  },
+  {
+    "PolyFID": 20,
+    "ID_NO": "(23)",
+    "Site": "Zandwerven 2",
+    "Date": "SGC/Vl",
+    "XCOORD": 125185.716297,
+    "YCOORD": 521987.883967
+  },
+  {
+    "PolyFID": 21,
+    "ID_NO": "(25)",
+    "Site": "Westfrisiaweg",
+    "Date": "SGC/BB/WKD/BVK",
+    "XCOORD": 137261.448328,
+    "YCOORD": 522962.68305
+  },
+  {
+    "PolyFID": 24,
+    "ID_NO": "(28)",
+    "Site": "Land uit Zee",
+    "Date": "SGC",
+    "XCOORD": 125287.35,
+    "YCOORD": 529939.9
+  },
+  {
+    "PolyFID": 27,
+    "ID_NO": "(31)",
+    "Site": "Keinsmerbrug",
+    "Date": "SGC",
+    "XCOORD": 115234.982972,
+    "YCOORD": 536112.583387
+  },
+  {
+    "PolyFID": 19,
+    "ID_NO": "(24)",
+    "Site": "Zandwerven 3",
+    "Date": "SGC/Vl",
+    "XCOORD": 125512.64078,
+    "YCOORD": 521225.077409
+  }
+]

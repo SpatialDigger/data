@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::28992" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "PolyFID": 1, "ID_NO": "(1,2)", "Site": "De Vrijheid", "Date": "SGC", "XCOORD": 123654.437763, "YCOORD": 530874.919539 }, "geometry": { "type": "Point", "coordinates": [ 123654.43776305688, 530874.9195386091 ] } },
+{ "type": "Feature", "properties": { "PolyFID": 2, "ID_NO": "(3,4,5)", "Site": "Flevo", "Date": "SGC", "XCOORD": 124282.906851, "YCOORD": 529710.346190 }, "geometry": { "type": "Point", "coordinates": [ 124282.90685112731, 529710.34619031905 ] } },
+{ "type": "Feature", "properties": { "PolyFID": 3, "ID_NO": "(6)", "Site": "Kolhorn", "Date": "SGC", "XCOORD": 122240.697287, "YCOORD": 534272.158890 }, "geometry": { "type": "Point", "coordinates": [ 122240.69728651195, 534272.15888954757 ] } },
+{ "type": "Feature", "properties": { "PolyFID": 4, "ID_NO": "(7)", "Site": "Poolland", "Date": "SGC", "XCOORD": 118252.045250, "YCOORD": 534760.163713 }, "geometry": { "type": "Point", "coordinates": [ 118252.0452504011, 534760.16371291189 ] } },
+{ "type": "Feature", "properties": { "PolyFID": 5, "ID_NO": "(8)", "Site": "Zeewijk", "Date": "SGC", "XCOORD": 124676.453147, "YCOORD": 530874.239410 }, "geometry": { "type": "Point", "coordinates": [ 124676.45314688764, 530874.23941019492 ] } },
+{ "type": "Feature", "properties": { "PolyFID": 6, "ID_NO": "(9)", "Site": "De Veken", "Date": "SGC\/BB", "XCOORD": 127568.320947, "YCOORD": 525119.356398 }, "geometry": { "type": "Point", "coordinates": [ 127568.3209469132, 525119.35639786674 ] } },
+{ "type": "Feature", "properties": { "PolyFID": 7, "ID_NO": "(10)", "Site": "Meester Juffer", "Date": "SGC", "XCOORD": 128633.919551, "YCOORD": 524311.159566 }, "geometry": { "type": "Point", "coordinates": [ 128633.9195507453, 524311.15956624213 ] } },
+{ "type": "Feature", "properties": { "PolyFID": 8, "ID_NO": "(11)", "Site": "Aartswould", "Date": "SGC", "XCOORD": 126712.686375, "YCOORD": 528830.959628 }, "geometry": { "type": "Point", "coordinates": [ 126712.68637533847, 528830.95962787606 ] } },
+{ "type": "Feature", "properties": { "PolyFID": 9, "ID_NO": "(12)", "Site": "Gouwe", "Date": "SGC", "XCOORD": 125780.527811, "YCOORD": 528640.742304 }, "geometry": { "type": "Point", "coordinates": [ 125780.5278106257, 528640.74230364303 ] } },
+{ "type": "Feature", "properties": { "PolyFID": 12, "ID_NO": "(15)", "Site": "Maantjesland", "Date": "SGC", "XCOORD": 126543.288575, "YCOORD": 529252.000716 }, "geometry": { "type": "Point", "coordinates": [ 126543.28857505844, 529252.00071627705 ] } },
+{ "type": "Feature", "properties": { "PolyFID": 13, "ID_NO": "(16)", "Site": "Mienakker", "Date": "SGC", "XCOORD": 124602.444511, "YCOORD": 527567.151872 }, "geometry": { "type": "Point", "coordinates": [ 124602.44451124787, 527567.15187232639 ] } },
+{ "type": "Feature", "properties": { "PolyFID": 14, "ID_NO": "(17)", "Site": "Molenkolk 1", "Date": "SGC", "XCOORD": 127282.598910, "YCOORD": 528807.488780 }, "geometry": { "type": "Point", "coordinates": [ 127282.5989100713, 528807.48877978546 ] } },
+{ "type": "Feature", "properties": { "PolyFID": 15, "ID_NO": "(18)", "Site": "Molenkolk 2", "Date": "SGC", "XCOORD": 127698.633890, "YCOORD": 528875.249555 }, "geometry": { "type": "Point", "coordinates": [ 127698.63389036983, 528875.249555405 ] } },
+{ "type": "Feature", "properties": { "PolyFID": 16, "ID_NO": "(19)", "Site": "Portelwoid", "Date": "SGC", "XCOORD": 125893.934789, "YCOORD": 528007.115672 }, "geometry": { "type": "Point", "coordinates": [ 125893.93478928086, 528007.11567220266 ] } },
+{ "type": "Feature", "properties": { "PolyFID": 17, "ID_NO": "(20)", "Site": "Rhomneyhut", "Date": "SGC", "XCOORD": 125612.600000, "YCOORD": 529625.950000 }, "geometry": { "type": "Point", "coordinates": [ 125612.6, 529625.95 ] } },
+{ "type": "Feature", "properties": { "PolyFID": 19, "ID_NO": "(22)", "Site": "Zandwerven 1", "Date": "SGC\/Vl", "XCOORD": 125512.640780, "YCOORD": 521225.077409 }, "geometry": { "type": "Point", "coordinates": [ 125512.64078045161, 521225.07740943204 ] } },
+{ "type": "Feature", "properties": { "PolyFID": 20, "ID_NO": "(23)", "Site": "Zandwerven 2", "Date": "SGC\/Vl", "XCOORD": 125185.716297, "YCOORD": 521987.883967 }, "geometry": { "type": "Point", "coordinates": [ 125185.71629746004, 521987.88396730006 ] } },
+{ "type": "Feature", "properties": { "PolyFID": 21, "ID_NO": "(25)", "Site": "Westfrisiaweg", "Date": "SGC\/BB\/WKD\/BVK", "XCOORD": 137261.448328, "YCOORD": 522962.683050 }, "geometry": { "type": "Point", "coordinates": [ 137261.448327847, 522962.68304988823 ] } },
+{ "type": "Feature", "properties": { "PolyFID": 24, "ID_NO": "(28)", "Site": "Land uit Zee", "Date": "SGC", "XCOORD": 125287.350000, "YCOORD": 529939.900000 }, "geometry": { "type": "Point", "coordinates": [ 125287.35, 529939.9 ] } },
+{ "type": "Feature", "properties": { "PolyFID": 27, "ID_NO": "(31)", "Site": "Keinsmerbrug", "Date": "SGC", "XCOORD": 115234.982972, "YCOORD": 536112.583387 }, "geometry": { "type": "Point", "coordinates": [ 115234.98297175985, 536112.5833870999 ] } },
+{ "type": "Feature", "properties": { "PolyFID": 19, "ID_NO": "(24)", "Site": "Zandwerven 3", "Date": "SGC\/Vl", "XCOORD": 125512.640780, "YCOORD": 521225.077409 }, "geometry": { "type": "Point", "coordinates": [ 125512.64078045161, 521225.07740943204 ] } }
+]
+}
