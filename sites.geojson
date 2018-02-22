@@ -1,342 +1,300 @@
 {
-"type": "FeatureCollection",
-   "name": "sites84",
-   "features": [
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 1,
-         "site_name": "De Vrijheid",
-         "period": "SGC",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           4.922812108428083,
-           52.76428520138008
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 2,
-         "site_name": "Flevo",
-         "period": "SGC",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           4.932231370326083,
-           52.75385565431169
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 3,
-         "site_name": "Kolhorn",
-         "period": "SGC",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           4.901529622287269,
-           52.79473084361187
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 4,
-         "site_name": "Poolland",
-         "period": "SGC",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           4.842343349548678,
-           52.79886065486573
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 5,
-         "site_name": "Zeewijk",
-         "period": "SGC",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           4.93795317292203,
-           52.76433713461144
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 6,
-         "site_name": "De Veken",
-         "period": "SGC/BB",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           4.981274686982153,
-           52.71277400080861
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 7,
-         "site_name": "Meester Juffer",
-         "period": "SGC",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           4.997107451944437,
-           52.705563689638154
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 8,
-         "site_name": "Aartswould",
-         "period": "SGC",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           4.968295205827696,
-           52.746084968281174
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 9,
-         "site_name": "Gouwe",
-         "period": "SGC",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           4.954507980644628,
-           52.74432622408189
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 12,
-         "site_name": "Maantjesland",
-         "period": "SGC",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           4.965750286994358,
-           52.74985984220231
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 13,
-         "site_name": "Mienakker",
-         "period": "SGC",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           4.937161760456993,
-           52.73461367720715
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 14,
-         "site_name": "Molenkolk 1",
-         "period": "SGC",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           4.976736877862343,
-           52.745903423475006
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 15,
-         "site_name": "Molenkolk 2",
-         "period": "SGC",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           4.982892207118737,
-           52.74653343107147
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 16,
-         "site_name": "Portelwoid",
-         "period": "SGC",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           4.956243259398398,
-           52.73863816878328
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 17,
-         "site_name": "Rhomneyhut",
-         "period": "SGC",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           4.951933441184142,
-           52.75317080355685
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 19,
-         "site_name": "Zandwerven 1",
-         "period": "SGC/Vl",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           4.951203206608758,
-           52.677669721694166
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 20,
-         "site_name": "Zandwerven 2",
-         "period": "SGC/Vl",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           4.946300656638065,
-           52.68450704071727
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 21,
-         "site_name": "Westfrisiaweg",
-         "period": "SGC/BB/WKD/BVK",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           5.12482642196654,
-           52.69379496633627
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 24,
-         "site_name": "Land uit Zee",
-         "period": "SGC",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           4.947087816770388,
-           52.75597443449054
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 27,
-         "site_name": "Keinsmerbrug",
-         "period": "SGC",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           4.7974478462886,
-           52.810801022697156
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
-         "id": 19,
-         "site_name": "Zandwerven 3",
-         "period": "SGC/Vl",
-         "site_type": "settlement"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           4.951203206608758,
-           52.677669721694166
-         ]
-       }
-     }
-   ]
-  }
+  "type": "FeatureCollection",
+  "name": "sites_z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 1,
+        "Site": "De Vrijheid",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.922812108428083,
+          52.76428520138008        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 2,
+        "Site": "Flevo",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.932231370326083,
+          52.75385565431169        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 3,
+        "Site": "Kolhorn",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.901529622287269,
+          52.79473084361187        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 4,
+        "Site": "Poolland",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.842343349548678,
+          52.79886065486573        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 5,
+        "Site": "Zeewijk",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.93795317292203,
+          52.76433713461144        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 6,
+        "Site": "De Veken",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.981274686982153,
+          52.71277400080861        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 7,
+        "Site": "Meester Juffer",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.997107451944437,
+          52.705563689638154        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 8,
+        "Site": "Aartswould",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.968295205827696,
+          52.746084968281174        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 9,
+        "Site": "Gouwe",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.954507980644628,
+          52.74432622408189        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 12,
+        "Site": "Maantjesland",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.965750286994358,
+          52.74985984220231        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 13,
+        "Site": "Mienakker",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.937161760456993,
+          52.73461367720715        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 14,
+        "Site": "Molenkolk 1",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.976736877862343,
+          52.745903423475006        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 15,
+        "Site": "Molenkolk 2",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.982892207118737,
+          52.74653343107147        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 16,
+        "Site": "Portelwoid",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.956243259398398,
+          52.73863816878328        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 17,
+        "Site": "Rhomneyhut",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.951933441184142,
+          52.75317080355685        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 19,
+        "Site": "Zandwerven 1",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.951203206608758,
+          52.677669721694166        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 20,
+        "Site": "Zandwerven 2",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.946300656638065,
+          52.68450704071727        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 21,
+        "Site": "Westfrisiaweg",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.12482642196654,
+          52.69379496633627        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 24,
+        "Site": "Land uit Zee",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.947087816770388,
+          52.75597443449054        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 27,
+        "Site": "Keinsmerbrug",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7974478462886,
+          52.810801022697156        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PolyFID": 19,
+        "Site": "Zandwerven 3",
+        "site_type": "settlement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.951203206608758,
+          52.677669721694166        ]
+      }
+    }
+  ]
+}
